@@ -4,6 +4,7 @@
 
 I'm a passionate full stack developer specializing in building scalable systems and crafting efficient software architectures. My tech stack includes Node.js, React, Spring Boot, and a variety of other frontend and backend technologies. I thrive in environments where I can leverage CI/CD practices and DevOps principles to automate processes and manage infrastructure effectively.
 
+- 🔭 12+ year of experience working with all sort of clients & technologies.
 - 🔭 I’m currently working on enhancing my skills in Kubernetes and server management.
 - 🌱 I’m currently learning more about cloud-native architectures and microservices.
 - 💬 Ask me about software architecture, CI/CD pipelines, or anything related to Node.js and React.
