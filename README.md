@@ -11,6 +11,11 @@ I'm a passionate full stack developer specializing in building scalable systems 
 - 📫 How to reach me: [dpanchal.fullstack@gmail.com](mailto:dpanchal.fullstack@gmail.com)
 - 😄 Pronouns: He/Him
 
+[![My Skills](https://skillicons.dev/icons?i=ts,next,nodejs,spring,express,java,tailwind,php,sass,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,firebase,prisma,mongodb,postgres)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,kafka,jenkins,terraform,aws,ansible,python,gitlab,raspberrypi)](https://skillicons.dev)
+
 ## Tech Stack
 
 ### Frontend
