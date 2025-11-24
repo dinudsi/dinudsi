@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=dinudsi&style=for-the-badge)
 # Hi there, I'm Dinesh Panchal! 👋
 
 ## About Me
