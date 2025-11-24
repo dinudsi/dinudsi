@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=dinudsi&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=dinudsi&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/dinudsi?style=for-the-badge)
+
 # Hi there, I'm Dinesh Panchal! 👋
 
 ## About Me
